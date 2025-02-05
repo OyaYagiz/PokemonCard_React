@@ -16,3 +16,4 @@ This project simulates a **Pokémon Go Card Game** developed with React. Players
 - **PokéAPI**: Source for Pokémon images.
 
 
+![](poke.gif)
