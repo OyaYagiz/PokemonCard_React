@@ -1,13 +1,12 @@
-import './App.css'
+import Pokegame from './Pokegame'
 import './Pokecard.css'
-import Pokedex from './Pokedex'
-
+import './App.css'
 
 function App() {
   return (
     <div className='App'>
       <h1>Pokemon Go Card Game</h1>
-      <Pokedex/>
+      <Pokegame/>
     </div>
   )
 }
